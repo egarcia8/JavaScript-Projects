@@ -10,4 +10,4 @@ var Family = "Garcia", Mom = "Evelina", Dad = "Dennis", Son = "Nicolas", Son2 = 
     Son3 = "Elijah", Dog = "Charlie"; // Defining mutliple variables and gving them a string value
 document.write(Dog + "<br>"); 
 
-document.write(4 * 5); //Using an expression
+document.write(4 * 5  + "<br>"); //Using an expression
