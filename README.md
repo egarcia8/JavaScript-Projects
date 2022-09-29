@@ -5,9 +5,9 @@ These are examples of the porjects I created while learning JavaScript. This rep
 
 <h2>Projects</h2>
 <ul>
-    <li><a href="https://github.com/egarcia8/JavaScript-Projects/tree/main/Pizza_Project" target= "_blank">Pizza Menu</li>
-    <li><a href="https://github.com/egarcia8/JavaScript-Projects/tree/main/TicTacToe" target="_blank">Tic-Tac-Toe Game</li>
-    <li><a href="https://github.com/egarcia8/JavaScript-Projects/tree/main/Calculator" target="_blank">Calculator</li>
+    <li><a href="https://github.com/egarcia8/JavaScript-Projects/tree/main/Pizza_Project" target= "_blank"/a>Pizza Menu</li>
+    <li><a href="https://github.com/egarcia8/JavaScript-Projects/tree/main/TicTacToe" target="_blank"/a>Tic-Tac-Toe Game</li>
+    <li><a href="https://github.com/egarcia8/JavaScript-Projects/tree/main/Calculator" target="_blank"/a>Calculator</li>
 </ul>
 <br>
 <h3>Pizza Menu</h3>
