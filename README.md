@@ -1,7 +1,7 @@
 # JavaScript-Projects
 
 <h1>Overview</h1>
-These are examples of the porjects I created while learning JavaScript. This repository includes assignments from The Tech Academy bootcamp along with some of my own personalizations as I gained skills and knowledge in JavaScript.
+These are examples of the projects I created while learning JavaScript. This repository includes assignments from The Tech Academy bootcamp along with some of my own personalizations as I gained skills and knowledge in JavaScript.
 
 <h2>Projects</h2>
 <ul>
